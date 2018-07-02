@@ -1,2 +1,2 @@
 # HelloSteve
-my first practice repository
+This is my first practice repository. It will contain many examples and resources for future projects. 
